@@ -1,22 +1,19 @@
 <a href='https://postimg.cc/SJcKsqCn' target='_blank'><img src='https://i.postimg.cc/02BKVyN0/dimitris-kiriakakis-sg-TFJVQQgv-U-unsplash-2.jpg' border='0' alt='dimitris-kiriakakis-sg-TFJVQQgv-U-unsplash-2'/></a><br />
-### **💡 Daily Quote**  
-> **"Code is like humor. When you have to explain it, it’s bad."** — Cory House  
 
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Biscoffee&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biscoffee&layout=compact&theme=tokyonight" />
-  <img src="https://github-immortality.vercel.app/api?username=Biscoffee" />
-</div>  
+## Tech Stack
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=swift,cpp,js,git,github,vscode" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biscoffee" alt="biscoffee" /></a> </p>
+<p>
+  <img src="https://img.shields.io/badge/Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=cocoapods&logoColor=white" />
+</p>
 
-
----
 
 ## 🌱 My Activity  
 <div align="center">
@@ -27,7 +24,7 @@
 
 ---
 
-## 🔥 Visitors  
+##  Visitors  
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Biscoffee&color=blue" />
 </div>  
@@ -43,3 +40,15 @@
 </div>  
 
 ---
+
+## GitHub Stats
+
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Biscoffee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biscoffee&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <sub>Keep building. Keep learning.</sub>
+</p>
