@@ -26,6 +26,13 @@
 </p>
 
 
+## GitHub Snapshot
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Biscoffee&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Biscoffee&theme=tokyonight&utcOffset=8" />
+</p>
+
 ## GitHub Summary
 
 <p align="center">
