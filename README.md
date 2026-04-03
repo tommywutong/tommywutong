@@ -13,14 +13,6 @@
 </div>  
 
 ---
-
-## About Me
-
-- Focused on iOS development, mainly using Objective-C and steadily deepening Swift.
-- Interested in mobile product engineering, UI implementation, architecture, and building apps from 0 to 1.
-- Built multiple music and utility apps, with hands-on experience in networking, local storage, and component-based UI.
-- Strengthening fundamentals in C++, data structures, and algorithms through LeetCode and project practice.
-
 ## Tech Stack
 
 <p>
@@ -33,13 +25,6 @@
   <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=cocoapods&logoColor=white" />
 </p>
 
-
-## GitHub Snapshot
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Biscoffee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biscoffee&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ## GitHub Summary
 
