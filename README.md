@@ -1,15 +1,16 @@
-<h1 align="center">Hi, I'm Wu Tong · Northern Lights</h1>
+<h1 align="center">Hi, I'm Tommy Wu · Northern Lights</h1>
 
 <p align="center">
   <strong>iOS Developer</strong> · Objective-C / Swift · Xi'an University of Posts & Telecommunications
 </p>
 
-<p align="center">
-  <a href="https://tommywutong.cn">Website</a> ·
-  <a href="https://leetcode.cn/u/wu-tong-1ms/">LeetCode</a> ·
-  <a href="https://blog.csdn.net/2402_86720949">CSDN</a> ·
-  <a href="mailto:17813123671@163.com">Email</a>
-</p>
+<a href='https://postimg.cc/SJcKsqCn' target='_blank'><img src='https://i.postimg.cc/02BKVyN0/dimitris-kiriakakis-sg-TFJVQQgv-U-unsplash-2.jpg' border='0' alt='dimitris-kiriakakis-sg-TFJVQQgv-U-unsplash-2'/></a><br />
+<div align="center">
+  <a href="https://github.com/Biscoffee"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></a>
+  <a href="https://leetcode.cn/u/wu-tong-1ms/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode"></a>
+  <a href="https://blog.csdn.net/2402_86720949?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/-CSDN-DC382D?style=flat-square&logo=csdn"></a>
+  <a href="mailto:17813123671@163.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+</div>  
 
 ---
 
@@ -32,22 +33,6 @@
   <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=cocoapods&logoColor=white" />
 </p>
 
-## Featured Projects
-
-| Project | Description | Tech |
-| --- | --- | --- |
-| [NLSpotify](https://github.com/Biscoffee/NLSpotify) | iOS music app with custom UI and playback-related feature exploration. | Objective-C |
-| [icloud-Music](https://github.com/Biscoffee/icloud-Music) | NetEase Cloud Music style client clone for iOS practice. | Objective-C |
-| [SummerDemo](https://github.com/Biscoffee/SummerDemo) | Collection of 3G Share, weather, and calculator demos. | Objective-C |
-| [Dairy](https://github.com/Biscoffee/Dairy) | Daily record / work logging app. | Objective-C |
-| [Students_ManagementSystem](https://github.com/Biscoffee/Students_ManagementSystem) | Console-based student management system for data-structure practice. | C++ |
-| [ZARA](https://github.com/Biscoffee/ZARA) | E-commerce style iOS UI and interaction implementation. | Objective-C |
-
-## Currently
-
-- Improving iOS engineering depth, code quality, and project structure.
-- Practicing Swift, algorithms, and reusable UI component design.
-- Writing technical notes on [tommywutong.cn](https://tommywutong.cn) and [CSDN](https://blog.csdn.net/2402_86720949).
 
 ## GitHub Snapshot
 
@@ -80,5 +65,5 @@
 ---
 
 <p align="center">
-  <sub>Thanks for visiting. Open to iOS engineering discussion, project collaboration, and technical exchange.</sub>
+  <sub>Keep building. Keep learning.</sub>
 </p>
