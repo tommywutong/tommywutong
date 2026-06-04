@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tommy Wu · Northern Lights</h1>
 
 <p align="center">
-  <strong>iOS Developer</strong> · Objective-C / Swift · Xi'an University of Posts & Telecommunications
+  <strong>iOS Developer</strong> · Objective-C / Swift · Beijing && Xi'an
 </p>
 
 <a href='https://postimg.cc/SJcKsqCn' target='_blank'><img src='https://i.postimg.cc/02BKVyN0/dimitris-kiriakakis-sg-TFJVQQgv-U-unsplash-2.jpg' border='0' alt='dimitris-kiriakakis-sg-TFJVQQgv-U-unsplash-2'/></a><br />
