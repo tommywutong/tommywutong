@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="200" viewBox="0 0 700 200" role="img" aria-label="Biscoffee visible GitHub profile summary">
+  <style>
+    text { font-family: "Segoe UI", Ubuntu, "Helvetica Neue", sans-serif; }
+  </style>
+  <rect x="1" y="1" width="698" height="198" rx="5" fill="#1a1b27" stroke="#1a1b27" />
+  <text x="30" y="40" font-size="22" fill="#70a5fd">Biscoffee (Northern Lights)</text>
+  <g transform="translate(30 76)">
+    <circle cx="7" cy="-5" r="6" fill="#bf91f3" opacity="0.22" />
+    <circle cx="7" cy="-5" r="2.5" fill="#bf91f3" />
+    <text x="22" y="0" font-size="14" fill="#38bdae">859 contributions in 12 months</text>
+  </g>
+  <g transform="translate(30 104)">
+    <circle cx="7" cy="-5" r="6" fill="#bf91f3" opacity="0.22" />
+    <circle cx="7" cy="-5" r="2.5" fill="#bf91f3" />
+    <text x="22" y="0" font-size="14" fill="#38bdae">26 public repositories</text>
+  </g>
+  <g transform="translate(30 132)">
+    <circle cx="7" cy="-5" r="6" fill="#bf91f3" opacity="0.22" />
+    <circle cx="7" cy="-5" r="2.5" fill="#bf91f3" />
+    <text x="22" y="0" font-size="14" fill="#38bdae">Joined GitHub 1 year ago</text>
+  </g>
+  <g transform="translate(30 160)">
+    <circle cx="7" cy="-5" r="6" fill="#bf91f3" opacity="0.22" />
+    <circle cx="7" cy="-5" r="2.5" fill="#bf91f3" />
+    <text x="22" y="0" font-size="14" fill="#38bdae">Beijing, China</text>
+  </g>
+  <line x1="292" y1="148" x2="665" y2="148" stroke="#38bdae" opacity="0.12" />
+  <line x1="292" y1="103" x2="665" y2="103" stroke="#38bdae" opacity="0.12" />
+  <line x1="292" y1="58" x2="665" y2="58" stroke="#38bdae" opacity="0.12" />
+  <path d="M292 148 L292.0 147.2 L325.9 146.0 L359.8 148.0 L393.7 145.1 L427.6 116.1 L461.5 147.6 L495.5 144.7 L529.4 98.1 L563.3 58.0 L597.2 85.4 L631.1 68.6 L665.0 119.8 L665 148 Z" fill="#bf91f3" opacity="0.22" />
+  <path d="M292.0 147.2 L325.9 146.0 L359.8 148.0 L393.7 145.1 L427.6 116.1 L461.5 147.6 L495.5 144.7 L529.4 98.1 L563.3 58.0 L597.2 85.4 L631.1 68.6 L665.0 119.8" fill="none" stroke="#bf91f3" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+  <text x="292" y="171" text-anchor="middle" font-size="10" fill="#38bdae" opacity="0.8">Aug</text>
+  <text x="359.8181818181818" y="171" text-anchor="middle" font-size="10" fill="#38bdae" opacity="0.8">Oct</text>
+  <text x="427.6363636363636" y="171" text-anchor="middle" font-size="10" fill="#38bdae" opacity="0.8">Dec</text>
+  <text x="495.45454545454544" y="171" text-anchor="middle" font-size="10" fill="#38bdae" opacity="0.8">Feb</text>
+  <text x="563.2727272727273" y="171" text-anchor="middle" font-size="10" fill="#38bdae" opacity="0.8">Apr</text>
+  <text x="631.090909090909" y="171" text-anchor="middle" font-size="10" fill="#38bdae" opacity="0.8">Jun</text>
+</svg>

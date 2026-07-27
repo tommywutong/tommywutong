@@ -5,9 +5,14 @@ on:
     - cron: "17 1 * * *"
   workflow_dispatch:
 
+concurrency:
+  group: profile-summary-cards
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     permissions:
       contents: write
     steps:
@@ -20,5 +25,47 @@ jobs:
           USERNAME: Biscoffee
           BRANCH_NAME: main
           UTC_OFFSET: 8
-          AUTO_PUSH: true
+          AUTO_PUSH: false
           THEME: tokyonight
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Generate public profile and stats cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node .github/scripts/generate-profile-summary.mjs
+
+      - name: Verify generated cards
+        shell: bash
+        run: |
+          cards=(
+            0-profile-details.svg
+            1-repos-per-language.svg
+            2-most-commit-language.svg
+            3-stats.svg
+            4-productive-time.svg
+          )
+          for card in "${cards[@]}"; do
+            file="profile-summary-card-output/tokyonight/$card"
+            test -s "$file"
+            grep -q "<svg" "$file"
+            if grep -Eqi "ERROR!!!|temporarily rate limited|temporarily unavailable" "$file"; then
+              echo "Invalid card: $file"
+              exit 1
+            fi
+          done
+
+      - name: Commit generated cards
+        shell: bash
+        run: |
+          git config user.name "profile-summary-cards[bot]"
+          git config user.email "profile-summary-cards-bot@example.com"
+          git add profile-summary-card-output
+          if git diff --cached --quiet; then
+            echo "Cards are already up to date."
+            exit 0
+          fi
+          git commit -m "Generate profile summary cards"
+          git push
