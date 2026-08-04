@@ -7,12 +7,12 @@
   <g transform="translate(30 76)">
     <circle cx="7" cy="-5" r="6" fill="#bf91f3" opacity="0.22" />
     <circle cx="7" cy="-5" r="2.5" fill="#bf91f3" />
-    <text x="22" y="0" font-size="14" fill="#38bdae">920 contributions in 12 months</text>
+    <text x="22" y="0" font-size="14" fill="#38bdae">1.1k contributions in 12 months</text>
   </g>
   <g transform="translate(30 104)">
     <circle cx="7" cy="-5" r="6" fill="#bf91f3" opacity="0.22" />
     <circle cx="7" cy="-5" r="2.5" fill="#bf91f3" />
-    <text x="22" y="0" font-size="14" fill="#38bdae">26 public repositories</text>
+    <text x="22" y="0" font-size="14" fill="#38bdae">27 public repositories</text>
   </g>
   <g transform="translate(30 132)">
     <circle cx="7" cy="-5" r="6" fill="#bf91f3" opacity="0.22" />
@@ -27,8 +27,8 @@
   <line x1="292" y1="148" x2="665" y2="148" stroke="#38bdae" opacity="0.12" />
   <line x1="292" y1="103" x2="665" y2="103" stroke="#38bdae" opacity="0.12" />
   <line x1="292" y1="58" x2="665" y2="58" stroke="#38bdae" opacity="0.12" />
-  <path d="M292 148 L292.0 146.0 L325.9 148.0 L359.8 145.1 L393.7 116.1 L427.6 147.6 L461.5 144.7 L495.5 98.1 L529.4 58.0 L563.3 85.4 L597.2 68.6 L631.1 97.3 L665.0 144.7 L665 148 Z" fill="#bf91f3" opacity="0.22" />
-  <path d="M292.0 146.0 L325.9 148.0 L359.8 145.1 L393.7 116.1 L427.6 147.6 L461.5 144.7 L495.5 98.1 L529.4 58.0 L563.3 85.4 L597.2 68.6 L631.1 97.3 L665.0 144.7" fill="none" stroke="#bf91f3" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M292 148 L292.0 146.1 L325.9 148.0 L359.8 145.3 L393.7 118.1 L427.6 147.6 L461.5 144.9 L495.5 101.3 L529.4 63.7 L563.3 89.4 L597.2 73.7 L631.1 58.0 L665.0 134.2 L665 148 Z" fill="#bf91f3" opacity="0.22" />
+  <path d="M292.0 146.1 L325.9 148.0 L359.8 145.3 L393.7 118.1 L427.6 147.6 L461.5 144.9 L495.5 101.3 L529.4 63.7 L563.3 89.4 L597.2 73.7 L631.1 58.0 L665.0 134.2" fill="none" stroke="#bf91f3" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
   <text x="292" y="171" text-anchor="middle" font-size="10" fill="#38bdae" opacity="0.8">Sep</text>
   <text x="359.8181818181818" y="171" text-anchor="middle" font-size="10" fill="#38bdae" opacity="0.8">Nov</text>
   <text x="427.6363636363636" y="171" text-anchor="middle" font-size="10" fill="#38bdae" opacity="0.8">Jan</text>
