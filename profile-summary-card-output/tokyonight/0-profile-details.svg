@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="700" height="200" viewBox="0 0 700 200" role="img" aria-label="Biscoffee visible GitHub profile summary">
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="200" viewBox="0 0 700 200" role="img" aria-label="tommywutong visible GitHub profile summary">
   <style>
     text { font-family: "Segoe UI", Ubuntu, "Helvetica Neue", sans-serif; }
   </style>
   <rect x="1" y="1" width="698" height="198" rx="5" fill="#1a1b27" stroke="#1a1b27" />
-  <text x="30" y="40" font-size="22" fill="#70a5fd">Biscoffee (Northern Lights)</text>
+  <text x="30" y="40" font-size="22" fill="#70a5fd">tommywutong (Northern Lights)</text>
   <g transform="translate(30 76)">
     <circle cx="7" cy="-5" r="6" fill="#bf91f3" opacity="0.22" />
     <circle cx="7" cy="-5" r="2.5" fill="#bf91f3" />

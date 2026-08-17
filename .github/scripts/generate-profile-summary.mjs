@@ -1,6 +1,6 @@
 import {mkdir, writeFile} from "node:fs/promises";
 
-const username = "Biscoffee";
+const username = "tommywutong";
 const outputDirectory = "profile-summary-card-output/tokyonight";
 const token = process.env.GITHUB_TOKEN;
 
@@ -49,7 +49,7 @@ async function fetchWithRetry(url, options) {
 async function fetchGitHubJson(path, {authenticated = true} = {}) {
   const headers = {
     Accept: "application/vnd.github+json",
-    "User-Agent": "Biscoffee-profile-summary",
+    "User-Agent": "tommywutong-profile-summary",
     "X-GitHub-Api-Version": "2022-11-28",
   };
   if (authenticated && token) headers.Authorization = `Bearer ${token}`;
@@ -70,7 +70,7 @@ async function fetchPublicContributionYear(year) {
   });
   const response = await fetchWithRetry(
     `https://github.com/users/${username}/contributions?${query}`,
-    {headers: {"User-Agent": "Biscoffee-profile-summary"}},
+    {headers: {"User-Agent": "tommywutong-profile-summary"}},
   );
   if (!response.ok) {
     throw new Error(`Contribution calendar ${response.status} for ${year}`);

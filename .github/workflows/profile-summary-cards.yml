@@ -22,7 +22,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          USERNAME: Biscoffee
+          USERNAME: tommywutong
           BRANCH_NAME: main
           UTC_OFFSET: 8
           AUTO_PUSH: false
