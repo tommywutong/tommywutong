@@ -27,8 +27,8 @@
   <line x1="292" y1="148" x2="665" y2="148" stroke="#38bdae" opacity="0.12" />
   <line x1="292" y1="103" x2="665" y2="103" stroke="#38bdae" opacity="0.12" />
   <line x1="292" y1="58" x2="665" y2="58" stroke="#38bdae" opacity="0.12" />
-  <path d="M292 148 L292.0 146.7 L325.9 148.0 L359.8 146.1 L393.7 128.4 L427.6 147.7 L461.5 145.9 L495.5 115.3 L529.4 89.6 L563.3 67.3 L597.2 66.2 L631.1 58.0 L665.0 72.3 L665 148 Z" fill="#bf91f3" opacity="0.22" />
-  <path d="M292.0 146.7 L325.9 148.0 L359.8 146.1 L393.7 128.4 L427.6 147.7 L461.5 145.9 L495.5 115.3 L529.4 89.6 L563.3 67.3 L597.2 66.2 L631.1 58.0 L665.0 72.3" fill="none" stroke="#bf91f3" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M292 148 L292.0 146.7 L325.9 148.0 L359.8 146.1 L393.7 128.4 L427.6 147.7 L461.5 145.9 L495.5 115.3 L529.4 89.6 L563.3 67.3 L597.2 66.2 L631.1 58.0 L665.0 71.8 L665 148 Z" fill="#bf91f3" opacity="0.22" />
+  <path d="M292.0 146.7 L325.9 148.0 L359.8 146.1 L393.7 128.4 L427.6 147.7 L461.5 145.9 L495.5 115.3 L529.4 89.6 L563.3 67.3 L597.2 66.2 L631.1 58.0 L665.0 71.8" fill="none" stroke="#bf91f3" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
   <text x="292" y="171" text-anchor="middle" font-size="10" fill="#38bdae" opacity="0.8">Sep</text>
   <text x="359.8181818181818" y="171" text-anchor="middle" font-size="10" fill="#38bdae" opacity="0.8">Nov</text>
   <text x="427.6363636363636" y="171" text-anchor="middle" font-size="10" fill="#38bdae" opacity="0.8">Jan</text>
