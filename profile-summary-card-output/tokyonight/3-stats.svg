@@ -8,7 +8,7 @@
     <circle cx="7" cy="-5" r="6" fill="#bf91f3" opacity="0.22" />
     <circle cx="7" cy="-5" r="2.5" fill="#bf91f3" />
     <text x="22" y="0" font-size="14" fill="#38bdae">Total Stars:</text>
-    <text x="145" y="0" font-size="14" fill="#38bdae">2</text>
+    <text x="145" y="0" font-size="14" fill="#38bdae">3</text>
   </g>
   <g transform="translate(30 101)">
     <circle cx="7" cy="-5" r="6" fill="#bf91f3" opacity="0.22" />
