@@ -27,12 +27,12 @@
   <line x1="292" y1="148" x2="665" y2="148" stroke="#38bdae" opacity="0.12" />
   <line x1="292" y1="103" x2="665" y2="103" stroke="#38bdae" opacity="0.12" />
   <line x1="292" y1="58" x2="665" y2="58" stroke="#38bdae" opacity="0.12" />
-  <path d="M292 148 L292.0 146.8 L325.9 148.0 L359.8 146.3 L393.7 129.9 L427.6 147.8 L461.5 146.0 L495.5 117.9 L529.4 94.2 L563.3 73.7 L597.2 72.7 L631.1 65.1 L665.0 58.0 L665 148 Z" fill="#bf91f3" opacity="0.22" />
-  <path d="M292.0 146.8 L325.9 148.0 L359.8 146.3 L393.7 129.9 L427.6 147.8 L461.5 146.0 L495.5 117.9 L529.4 94.2 L563.3 73.7 L597.2 72.7 L631.1 65.1 L665.0 58.0" fill="none" stroke="#bf91f3" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
-  <text x="292" y="171" text-anchor="middle" font-size="10" fill="#38bdae" opacity="0.8">Sep</text>
-  <text x="359.8181818181818" y="171" text-anchor="middle" font-size="10" fill="#38bdae" opacity="0.8">Nov</text>
-  <text x="427.6363636363636" y="171" text-anchor="middle" font-size="10" fill="#38bdae" opacity="0.8">Jan</text>
-  <text x="495.45454545454544" y="171" text-anchor="middle" font-size="10" fill="#38bdae" opacity="0.8">Mar</text>
-  <text x="563.2727272727273" y="171" text-anchor="middle" font-size="10" fill="#38bdae" opacity="0.8">May</text>
-  <text x="631.090909090909" y="171" text-anchor="middle" font-size="10" fill="#38bdae" opacity="0.8">Jul</text>
+  <path d="M292 148 L292.0 148.0 L325.9 146.3 L359.8 130.4 L393.7 147.8 L427.6 146.1 L461.5 118.7 L495.5 95.6 L529.4 75.6 L563.3 74.7 L597.2 67.3 L631.1 58.0 L665.0 146.1 L665 148 Z" fill="#bf91f3" opacity="0.22" />
+  <path d="M292.0 148.0 L325.9 146.3 L359.8 130.4 L393.7 147.8 L427.6 146.1 L461.5 118.7 L495.5 95.6 L529.4 75.6 L563.3 74.7 L597.2 67.3 L631.1 58.0 L665.0 146.1" fill="none" stroke="#bf91f3" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+  <text x="292" y="171" text-anchor="middle" font-size="10" fill="#38bdae" opacity="0.8">Oct</text>
+  <text x="359.8181818181818" y="171" text-anchor="middle" font-size="10" fill="#38bdae" opacity="0.8">Dec</text>
+  <text x="427.6363636363636" y="171" text-anchor="middle" font-size="10" fill="#38bdae" opacity="0.8">Feb</text>
+  <text x="495.45454545454544" y="171" text-anchor="middle" font-size="10" fill="#38bdae" opacity="0.8">Apr</text>
+  <text x="563.2727272727273" y="171" text-anchor="middle" font-size="10" fill="#38bdae" opacity="0.8">Jun</text>
+  <text x="631.090909090909" y="171" text-anchor="middle" font-size="10" fill="#38bdae" opacity="0.8">Aug</text>
 </svg>
